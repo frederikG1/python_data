@@ -1,3 +1,0 @@
-*police.csv filter=lfs diff=lfs merge=lfs -text
-*.csv filter=lfs diff=lfs merge=lfs -text
-assets/police.csv filter=lfs diff=lfs merge=lfs -text
